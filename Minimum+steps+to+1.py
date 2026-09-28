@@ -1,4 +1,4 @@
-
+#this is the complete soln of dynamic programming and the other working of the complete work flow of dynamic programming problem solving algorithm.
 def min_steps_tabulation(n):
     dp = [0] *(n+1)
 
